@@ -34,5 +34,4 @@ Welcome to the Placement Management System! This application is designed to stre
     ```bash
     mvn clean install
 4.Run the application
-    ```bash
-    java -jar target/placement-management-system.jar
+   
